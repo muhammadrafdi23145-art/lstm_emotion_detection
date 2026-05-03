@@ -28,5 +28,17 @@ The model demonstrates high accuracy across multiple emotion classes. You can re
 https://drive.google.com/file/d/1tHZ0HI6bv8-wnPdQDm_ttzQgcuFBZKIA/view?usp=sharing
 
 ## Result
+<img width="1552" height="590" alt="image" src="https://github.com/user-attachments/assets/005baef2-0ec7-4b37-af61-f439a44144a4" />
 
 ## Evaluation
+Accuracy: 0.9372
+
+Macro Avg: 
+F1-Score 0.9369
+Presisi 0.9394
+Recall 0.9372.
+
+Weighted Avg: 
+F1-Score 0.9369 
+Presisi 0.9393
+Recall 0.9372.
