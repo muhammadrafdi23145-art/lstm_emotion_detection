@@ -24,4 +24,9 @@ The model demonstrates high accuracy across multiple emotion classes. You can re
 - `tokenizer.pkl`: Fitted tokenizer for text vectorization.
 - `label_encoder.pkl`: Encoder for target labels.
 
+## Dataset
+https://drive.google.com/file/d/1tHZ0HI6bv8-wnPdQDm_ttzQgcuFBZKIA/view?usp=sharing
+
 ## Result
+
+## Evaluation
