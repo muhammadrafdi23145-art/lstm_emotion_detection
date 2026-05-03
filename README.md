@@ -32,8 +32,8 @@ https://drive.google.com/file/d/1tHZ0HI6bv8-wnPdQDm_ttzQgcuFBZKIA/view?usp=shari
 
 ## Evaluation
 
-              precision    recall  f1-score
+                   precision    recall      f1-score
 
-    accuracy                           1.00
+    accuracy                                1.00
     macro avg       0.9394      0.9372      0.9369
-    weighted avg       0.9393      0.9372     0.9369
+    weighted avg    0.9393      0.9372      0.9369
